@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A git folder is created with the metadata for the files. It needs to be done so the directory can be created and populated later
 with the files whose history I would like to track.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is a regular folder in which the git command line works. The staging area is an intermediate stage between the working
+directory and the repository, which is the final destination of the files.
