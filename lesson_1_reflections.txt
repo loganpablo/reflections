@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By seeing the differences between an old, working version of the application and the new one that was not working, I could
+pinpoint the changes that were part of the program, but also the typo that lead to the non-functionality.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Many times during programming, I have found out that a change I introduced was not right after all, and I had to rethink the problem.
+Having access to the history would enable me to easily restore the program to a working version, and keep the changes that are useful.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Since git was created with the express purpose of code version control and it is very usual in programming that files are related, it makes sense that changes
+in all files are uploaded. In contrast to that, Google Docs was created  for working on documents, where the connection between files is more rare.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log is a more general command that shows the history of all the changes that have been applied to the file. Git diff compares two specific commits and
+finds the differences between them.
+
+How might using version control make you more confident to make changes that could break something?
+
+Since we can easily revert to working versions and pinpoint bugs that break the code, that gives us a larger margin to experiment and try changes that
+might break things.	
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to use Git for my programming projects, but also for LateX files version control. 
