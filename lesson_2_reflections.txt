@@ -7,3 +7,15 @@ How is the staging area different from the working directory and the repository?
 
 The working directory is a regular folder in which the git command line works. The staging area is an intermediate stage between the working
 directory and the repository, which is the final destination of the files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can compare the staging area with my working directory and also with the repository to make sure that I commit once per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can help when the user wants to add experimental features or otherwise significantly diverge from the main program.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams present a visual representation of the repository, making it easy to see the branches and the various commit states.
