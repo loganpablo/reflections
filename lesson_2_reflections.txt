@@ -19,3 +19,13 @@ Branches can help when the user wants to add experimental features or otherwise 
 How do the diagrams help you visualize the branch structure?
 
 The diagrams present a visual representation of the repository, making it easy to see the branches and the various commit states.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together combines into a single file all the independent changes that may have been added to the files, like features.
+Since the files become one, it is represented in a branch as a unification of two paths of changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of automatic: Less work, fastest merging
+Cons: Possibility of conflicts on simple differences that would be obvious if merging manually
