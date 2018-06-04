@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Keeping a remote repository allows for backup, easy collaboration for multiple people
+on the same project and a public place accessible by other interested parties.
