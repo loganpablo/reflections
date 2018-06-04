@@ -17,3 +17,11 @@ changes.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This helps to solve possible conflicts when many people collaborate on a project and thus the repositories may have different commits.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Although a bit more complicated, working with branches allows the user to experiment without fear of breaking the master branch, and also
+gives the possibility for feedback from other collaborators for a specific change, before it is incorporated into master.
+
